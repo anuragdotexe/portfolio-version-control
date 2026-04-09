@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["file:///Users/anuragroy/portfolio%20-%20dark/src/app/page.tsx"],"sourcesContent":["/* Exact padding for that 'tucked-in' look */\n<div className=\"max-w-[1500px] mx-auto px-6 sm:px-12 md:px-20 lg:px-24 xl:px-32\">\n</div>"],"names":["className"],"mappings":";AAAA,2CAA2C,iBAC3C,QAAC;IAAIA,WAAU"}}]
+}
